@@ -9,7 +9,9 @@
 - ⚡ Fun fact: 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on [TameTheTemp](https://unearthed.solutions/u/competitions/tame-the-temp): the unearthed solutions data science competition. I am looking at using LSTM networks to solve this problem.
+- 🔭 I’m currently working on 
+1. [TameTheTemp](https://unearthed.solutions/u/competitions/tame-the-temp): the unearthed solutions data science competition. I am looking at using LSTM networks to solve this problem.
+2. Writing a Navier-Stokes computational fluid dynamics tutorial in [devito](https://github.com/devitocodes/devito)
 - 🌱 I’m currently learning Reinforcement Learning via David Silver's 2015 class.
 - 💬 Ask me about Reservoir Simulation, Seismic Processing, Machine Learning or Natural Language Processing.
 
