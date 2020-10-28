@@ -9,11 +9,8 @@
 - ⚡ Fun fact: 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on 
-1. Writing Reinforcement learning algorithms for AIGym problems.
-2. [TameTheTemp](https://unearthed.solutions/u/competitions/tame-the-temp): the unearthed solutions data science competition. I am looking at using LSTM networks to solve this problem.
-3. Writing a Navier-Stokes computational fluid dynamics tutorial in [devito](https://github.com/devitocodes/devito)
-- 🌱 I’m currently learning Reinforcement Learning via David Silver's 2015 class.
+- 🔭 I’m currently working on Project Euler problems.
+- 🌱 I’m currently reading Fluent Python by Luciano Ramalho
 - 💬 Ask me about Reservoir Simulation, Seismic Processing, Machine Learning or Natural Language Processing.
 
 
