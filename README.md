@@ -10,8 +10,9 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on 
-1. Fatiando a Terre's boule
-2. Microsoft Azure Cloud Certification
+1. 🎄 Advent of Code 2020 🎄
+2. Fatiando a Terre's boule
+3. Microsoft Azure Cloud Certification
 - 🌱 I’m currently reading Fluent Python by Luciano Ramalho
 - 💬 Ask me about Reservoir Simulation, Seismic Processing, Machine Learning or Natural Language Processing.
 
