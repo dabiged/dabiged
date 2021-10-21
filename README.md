@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on 
 1. AWS Cloud Certification 
+2. MHVTL.
 - 🌱 I’m currently reading Fluent Python by Luciano Ramalho.
 - 💬 Ask me about Reservoir Simulation, Seismic Processing, Machine Learning or Natural Language Processing.
 
